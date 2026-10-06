@@ -1,0 +1,77 @@
+{
+  "kernel": "0.397**2 * RBF(length_scale=[20, 20, 0.5]) + WhiteKernel(noise_level=0.845)",
+  "next_trials": [
+    {
+      "speed": 1000.0,
+      "feed": 0.16,
+      "depth": 0.3,
+      "pred_Ra_um": 0.4879,
+      "pred_sd_um": 0.1307,
+      "order": 1
+    },
+    {
+      "speed": 1000.0,
+      "feed": 0.16,
+      "depth": 0.5,
+      "pred_Ra_um": 0.5236,
+      "pred_sd_um": 0.1307,
+      "order": 2
+    },
+    {
+      "speed": 400.0,
+      "feed": 0.05,
+      "depth": 0.3,
+      "pred_Ra_um": 0.4877,
+      "pred_sd_um": 0.1307,
+      "order": 3
+    },
+    {
+      "speed": 400.0,
+      "feed": 0.05,
+      "depth": 0.5,
+      "pred_Ra_um": 0.5233,
+      "pred_sd_um": 0.1307,
+      "order": 4
+    },
+    {
+      "speed": 1000.0,
+      "feed": 0.05,
+      "depth": 0.3,
+      "pred_Ra_um": 0.4878,
+      "pred_sd_um": 0.1307,
+      "order": 5
+    },
+    {
+      "speed": 1000.0,
+      "feed": 0.05,
+      "depth": 0.5,
+      "pred_Ra_um": 0.5236,
+      "pred_sd_um": 0.1307,
+      "order": 6
+    }
+  ],
+  "replicates": [
+    {
+      "readings_per_cut": 1,
+      "sd_of_cut_mean_um": 0.08766237139174762
+    },
+    {
+      "readings_per_cut": 2,
+      "sd_of_cut_mean_um": 0.06198665726599835
+    },
+    {
+      "readings_per_cut": 3,
+      "sd_of_cut_mean_um": 0.050611893720826445
+    },
+    {
+      "readings_per_cut": 5,
+      "sd_of_cut_mean_um": 0.0392038043001561
+    },
+    {
+      "readings_per_cut": 8,
+      "sd_of_cut_mean_um": 0.030993328632999174
+    }
+  ],
+  "within_cut_sd_um": 0.08766237139174762,
+  "rerun_first": "the 6 cuts at 630 rpm with f 0.10/0.16 (implied cut length 2x, see audit)"
+}

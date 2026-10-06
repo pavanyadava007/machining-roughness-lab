@@ -1,0 +1,569 @@
+[
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.05_0.20.csv",
+  "size": 51983824,
+  "sha256": "4e4d9b127690f90636278c65cb3c2f720a415086ff940fa7914bc7968823a4f6",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/2d3b096b-5f17-4829-8e7a-d109ad72bd4e/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.05_0.40.csv",
+  "size": 55828973,
+  "sha256": "6b35fea12ba2cb3d4a726cb95210b10951ba85196dd8aa2bf3ca5d2e2be58053",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/59015fa4-1bab-4f24-b41b-f24cfb163f1e/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.05_0.60.csv",
+  "size": 54933304,
+  "sha256": "a2006fc0a032f34d0ab7ade520bdf1daa4cc32ce054a86ded82911cc0f1b95ec",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/56b6ed55-3f99-496e-994b-9eddbc335821/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.10_0.20.csv",
+  "size": 27305802,
+  "sha256": "aef50f46a2a55cb7c60f0ac6b41fc07f7b7f43a7aa0a9a3338054460946f1933",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/86648ee9-dfa4-4e93-acec-a453fad1dad7/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.10_0.40.csv",
+  "size": 27188724,
+  "sha256": "9294ceb199737d428954ad82d0d433956ff544c088a00f9832bba846520df080",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/73c609e7-4ef5-42fa-ae36-27ae328fb70b/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.10_0.60.csv",
+  "size": 27913725,
+  "sha256": "9ad30c52f560637b1786f40a6cdd7d31e3604d3ae07ffd04f09a8ca71045da3b",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/6a70ae5f-a9c2-4764-b091-f4cfef62b9b7/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.16_0.20.csv",
+  "size": 17954840,
+  "sha256": "d78e5f273bceb40209d9f288a64e2f31e071b28119816fd09c10790b745abe4e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/91796190-8e55-4332-ba27-5aa1104e01b6/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.16_0.40.csv",
+  "size": 17297556,
+  "sha256": "adc6306c5f96259076fabe8e3893198c9817682958b3812d65bf51cd748e4e46",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/f4af9914-10cd-4d64-abe8-4affea69a4dc/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0400_0.16_0.60.csv",
+  "size": 17627429,
+  "sha256": "59f9695aa8ff8cfb925fbfb2dd0eba9c7b3c6cde28d6da39a07f4f7ea3aaea09",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/be26904c-a8fa-4e03-8f99-164c9848f32a/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.05_0.20.csv",
+  "size": 32001151,
+  "sha256": "4ad9499014165485f4d6edb95bc3f8d55e5a7896b02e8f17de2add68b91a7558",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/bfdc368c-ea1d-42d0-bdc4-014af49364f6/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.05_0.40.csv",
+  "size": 28072661,
+  "sha256": "bce7c59c673ee9628bca011db75f415ba374d02fe16cd407c0bc9924703cf935",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/653a8f60-ddcb-4dde-b7ea-c7431a4ea01c/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.05_0.60.csv",
+  "size": 35147971,
+  "sha256": "d799cde68fe78f8492005b4744f671aae3f0ae759441f0a8c93d898933f6793f",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/ad30f286-e6f1-463b-97f0-a3eca753e427/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.10_0.20.csv",
+  "size": 32424119,
+  "sha256": "c5a95619ba68c6ec1285d70a9fe018102f4f98c17d2c4c46470cb59af06d4909",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c4a20884-103e-41be-8a4a-b746ae5116eb/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.10_0.40.csv",
+  "size": 32273377,
+  "sha256": "3bbf8cb328c36db505c1c80c8e8e545b1f7de43c77290ef1dbcbf589a7f8f356",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/48c74d78-b984-48a3-b54e-95a97b949fd4/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.10_0.60.csv",
+  "size": 34436007,
+  "sha256": "6b71b9394eddb97d38e3be94341b5c43f976ab88c57a6de7c16e49a90c34f9c3",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/d54e8853-2109-43a9-98a1-0dbcad324758/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.16_0.20.csv",
+  "size": 22553803,
+  "sha256": "7cda9f6c0ac7f96429f8a087a583a13753f27ae36c40549fb4f923dac0e5629a",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c1248474-34cf-4ef2-96ba-2fa776e0c9a7/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.16_0.40.csv",
+  "size": 21730744,
+  "sha256": "38109869355f59d834b03d7167771195edc8380b8fdc705a3b01e361067c75de",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/34949722-68fc-459b-930b-40671794b41b/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_0630_0.16_0.60.csv",
+  "size": 22517598,
+  "sha256": "3ca68ffb3ed18f031c71ba3ffcc74e09863eda6c7435062b79c3ea76e1b71a14",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/d06949fe-e7e9-4a27-afbe-4be4fa995842/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.05_0.20.csv",
+  "size": 22476665,
+  "sha256": "96a4b4473773aa9859d3888f6ebaf100a7f3cfa802769f75a8c975b0f30faf60",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/d683896d-42b2-4be8-8b77-4eca918257a4/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.05_0.40.csv",
+  "size": 21715092,
+  "sha256": "90c235862e4fc3bb829933dddb32f28b96c20af443ccac0d3b55b505bdf3bc68",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/58d4ddb8-d91c-47f4-95b5-0150865d6724/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.05_0.60.csv",
+  "size": 21498742,
+  "sha256": "2093f217ee3e0de12f6e82eeb4068faecad682fddd36486aaa6dfc461d7e3302",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/edca45f0-88d4-4e23-a68e-78bd6b507683/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.10_0.20.csv",
+  "size": 11104701,
+  "sha256": "5a09290aa71b19fa02db0db64ca7b9c2e8555780ff66e1effd7a5a453fbe10b2",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/0dc62884-2414-4d7b-8cf9-fe289ce32826/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.10_0.40.csv",
+  "size": 11179255,
+  "sha256": "0d01064feaaf5f4fc0ba782a2f7671df9f82bbac5c11ffd4debe3698820dba11",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/ea3e9473-247b-4b18-9f3b-d473c859f751/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.10_0.60.csv",
+  "size": 10656059,
+  "sha256": "b94703efb8b3a26c929bd11d0cbfb47085dc62b47a15f0117076d89fb3834719",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/4ab7260f-42be-418a-9715-dcccf485274c/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.16_0.20.csv",
+  "size": 6911476,
+  "sha256": "eed1ee7cc475a4ecb3e4a6f3dade81e3897ac310ac4a7997237d1a443ecca85e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/723b32fb-c1f4-4ea4-a97f-67cab038beb3/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.16_0.40.csv",
+  "size": 6284435,
+  "sha256": "e3edb6ae32ef869ddd5ec7cff4c41964045fcb5cf58eff167fc1995742e35f2c",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/33a3d8c0-8a05-46a3-a58f-8ddadbf64221/file_downloaded"
+ },
+ {
+  "folder": "acc",
+  "filename": "a_1000_0.16_0.60.csv",
+  "size": 6561748,
+  "sha256": "c4c21c88038b5f3c79e538150affe6a97d9d8c8c14d83bab06419660db1a2be9",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/0dd7c78c-69b3-47e2-9fc9-58002a0a6887/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.05_0.20.csv",
+  "size": 79072924,
+  "sha256": "d40474fbe1da5817444badf3c2ea51f5067a586b41746d525fee43af26176f7b",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/f82f23d0-b198-471b-a071-48ac02bebb2e/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.05_0.40.csv",
+  "size": 84381194,
+  "sha256": "1923628935f60d923a94b9f55bc36494f298d4aa196f91b20c400107641d002c",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/26e76ccd-8110-4f7d-b9ea-08456172a178/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.05_0.60.csv",
+  "size": 82664741,
+  "sha256": "5a86f8e2e72f3574137c55910759431f990bc9f96e5b9a835b2ed77f858abfe1",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/a139c354-cbba-4a7f-b7eb-a31b5b41595a/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.10_0.20.csv",
+  "size": 41997057,
+  "sha256": "f95f7a785868ace6e878ba9f27a7ad87f23bb16a830dec48c7cc018b8321d821",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/94a72592-814d-4bb4-899b-e8c00e7faa92/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.10_0.40.csv",
+  "size": 41271917,
+  "sha256": "1694c4391129f6e3571a92bb4c34f7081bd316beaa71bb77e3c75d881dcec5dc",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/7d0d000a-41ca-4f3e-9d62-87cc1f61743e/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.10_0.60.csv",
+  "size": 42357518,
+  "sha256": "6197351632af9f2b6b14520adf57e41850a915c932dac4185d1d6cd633f4a7bb",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/824db643-886b-4323-ad76-53c42852f23f/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.16_0.20.csv",
+  "size": 27605260,
+  "sha256": "3d34d04483578ea370f4b3c2393187afec43ccdc6a9662082feb4cbdadc91669",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/781b4df1-1789-4205-bbd7-9f9cc731846c/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.16_0.40.csv",
+  "size": 26428628,
+  "sha256": "96cbfea2397148b622f43c24407fed030d7cc1f0bf7d756a8b966c900e27bc7f",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/0d52e000-283a-48a5-8df3-6f6410cb7876/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0400_0.16_0.60.csv",
+  "size": 27154931,
+  "sha256": "ffcdab611887bcf2dbd26aad15f8b642f57743c424d034789de052462e56971b",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/04d9d8f1-71f5-4885-b93f-22bd2a2d0194/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.05_0.20.csv",
+  "size": 49886328,
+  "sha256": "5834ae495860f8e1cfb17a8a43cf8cbe3f6a70af54cde1cee3bfe33548f96f27",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/a1635c8d-2fdb-4deb-a0f5-5b1b88ae788e/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.05_0.40.csv",
+  "size": 42587455,
+  "sha256": "9b146448b44362364ab4a3022482191ca68a38681a54f448f380b320524284cf",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/6e8b01a0-aaf5-468e-90ad-6ce33a0b8307/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.05_0.60.csv",
+  "size": 54899063,
+  "sha256": "faa3f7e7c9dcfb0fcfb596ae5f9e1c031671dea5eb1c2f87f26f03d05bf29478",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/41b56a0c-e8cc-46f9-90b5-8174203e3599/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.10_0.20.csv",
+  "size": 50069933,
+  "sha256": "8f953da0bb490ff5a8aa8d0a31a3c83d91c71ae7cbe404d388eee8f588accd9d",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/65aca922-93f6-4688-b2be-f34d5d0a477d/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.10_0.40.csv",
+  "size": 49099674,
+  "sha256": "e08989c5eeaac7b0828863fd32c643e3822ffefc601e1484e1fb4efedec0110b",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/7020ce5c-3b3b-480b-b9df-9948fbdfbbf5/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.10_0.60.csv",
+  "size": 50937253,
+  "sha256": "34f08afd90bf617bc9e2578a04e4187e8ea265e2c1630321c99841a357be8330",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/54e0cc6a-19e4-48c2-b002-819c59ed94fb/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.16_0.20.csv",
+  "size": 34771987,
+  "sha256": "8eee9129c658f310d9e791850e3aa377af50f3873f9ad5f83541829eb2d8a87e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/d0f5533a-6c9d-44aa-b722-1990acb68431/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.16_0.40.csv",
+  "size": 33523468,
+  "sha256": "996a41eead3850f882e4eb5a5643ec6073c09ca74dd2d826c209b61401d2a3d1",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/4d7c0f83-36f0-4bf7-8791-95e618baf31f/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_0630_0.16_0.60.csv",
+  "size": 36462481,
+  "sha256": "b9cebdd0ab99616ce2c71db46c4a8f867a85a12eeef2f44c5fd8997eabb53f45",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/5fdbdc42-7c6a-4b17-8d17-a8cc05135706/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.05_0.20.csv",
+  "size": 33991629,
+  "sha256": "3d969c11557e6ce42b646510b08b17ae407f5aa394e5c7933265c0afd6d826c8",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c8480037-6383-4645-bd30-64157d7faf88/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.05_0.40.csv",
+  "size": 34247914,
+  "sha256": "d134cd2af8ac11ed10db816c296458425e2d20d3f102c25ad13d2d007c743e80",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9f066304-e040-4f12-9b72-6c9d3df88fe0/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.05_0.60.csv",
+  "size": 32577900,
+  "sha256": "5874397f7d2f365819b855a77c2514787844e9ed134ec9f8c391a1fcaab70d0e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/13e7af34-f33e-47fd-98d0-fb476f7ca105/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.10_0.20.csv",
+  "size": 17773831,
+  "sha256": "5803a82db302c3f0108dda8a0fdafba01eeffdbe12d1e8c63cab6cad2bf8dffd",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/bc8ebf4c-7b3b-4875-bacd-bb723cb5eebd/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.10_0.40.csv",
+  "size": 17818191,
+  "sha256": "7b41cfc25881a112a912e37c7784a6a80102a6bbea65507c0b54da99a982fa04",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/5126c2d9-aec8-4356-ad23-89fbd8d0759c/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.10_0.60.csv",
+  "size": 16608506,
+  "sha256": "d8104f90e1ddb0e9b64c0c3f7da1bfb0faf8b4a0efcdb8f3395b2e4ee18b531d",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9d96848f-1b58-4500-8c23-9725dd1592c4/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.16_0.20.csv",
+  "size": 11341308,
+  "sha256": "22fe931a04bb1f83dc545a7fefee4b9432da384ffa02c12902d8e6d8a291cd00",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/44efadd7-60c8-4ee9-b2f1-bb69067c4df0/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.16_0.40.csv",
+  "size": 10316650,
+  "sha256": "7f1db8ccd1e251e45554972a347693f3ca9788113c40aef09d72e252c9a01377",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/81c33a3c-4d0c-4afa-920e-64efae49ee9f/file_downloaded"
+ },
+ {
+  "folder": "dyn",
+  "filename": "f_1000_0.16_0.60.csv",
+  "size": 10515155,
+  "sha256": "b19eb784ea319e0dd02eef4deef8359397f47dfca30ab1490076c70171a8d20e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/b04b927c-4696-4944-bef3-3fb8fecef57b/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.05_0.20.csv",
+  "size": 65,
+  "sha256": "69f0f90c5af47111e86a4156b9455934b4279ef0602fe3e10b81a6e2bdbbccde",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/24df1082-832b-4379-a392-0b991731b383/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.05_0.40.csv",
+  "size": 66,
+  "sha256": "516a7c2717fc6aacfcb0fa8e8a54a0e7e567af92ec8d7b8f1bdf05e73653cef9",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c0c244f6-7951-4cf2-b504-eff605932937/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.05_0.60.csv",
+  "size": 66,
+  "sha256": "5a070e58079b146da5eebd820650256f78e500c7f9a1079d45b3e989be4d7a1a",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9e19ae09-91bb-442d-a7b0-fa618461de84/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.10_0.20.csv",
+  "size": 65,
+  "sha256": "76205d1b8526bd623ef3cb957d356db13b6282e0e4612023956a38731d13299d",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/02358772-5acb-4ce3-a28d-c3c2279517ca/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.10_0.40.csv",
+  "size": 64,
+  "sha256": "22bb5b63827e4e01f1f0ff51cf997c236b82bde31e6c4ce5625faf2809fd3da2",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9599831a-244a-42aa-b124-88a97e01a3e2/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.10_0.60.csv",
+  "size": 65,
+  "sha256": "837095723d46366c4f95fa10776d80e6bbb70e6346ba5f7435df3c13f66545ac",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/8d249be1-7fa9-4c4b-a30a-489768531a30/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.16_0.20.csv",
+  "size": 66,
+  "sha256": "941cbf17fb63b7c674dbdcb413ba97e1f0247a833784281187b5bfba0b0f3933",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/3f99a010-bc70-4c68-b0af-477150cb0f6e/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.16_0.40.csv",
+  "size": 67,
+  "sha256": "35c27b39e56cdea3183c68dc861f590e6ed2a6369d2f240306016243e104333a",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/97294389-4970-4083-a116-fcbcb1de3304/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0400_0.16_0.60.csv",
+  "size": 64,
+  "sha256": "8fdd0d420f9d1422fd452ec657ebc7fb5b1a790eca0bf0fa25d90aa0e43d1374",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9c1579e7-ada3-4454-aa7b-f34daa7e6f8c/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.05_0.20.csv",
+  "size": 67,
+  "sha256": "80e445656d22968cf50f76c1e3719ae67404a7cff316efad8739f08bbfbc83ee",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/81327169-c9e2-4551-866b-76950e7336aa/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.05_0.40.csv",
+  "size": 67,
+  "sha256": "7d0c714832099a543ac3b959d7220126e639d76761943b191d08894f1dbf1b0b",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c337b99f-451f-4c70-867b-4f5b566c6a22/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.05_0.60.csv",
+  "size": 65,
+  "sha256": "72669467131fd5566c916d3ab64d938b1e5d9ad98e15b81f7e2f591e737aae62",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/dd77bc21-48b2-418e-a979-66fb99d81309/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.10_0.20.csv",
+  "size": 66,
+  "sha256": "fa25d9f3a32caf980c80ef85f30ba3e698905a4136639fe8e86894a85787d209",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/bb5e767e-14ac-4c1b-8e11-be525b2a6b2b/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.10_0.40.csv",
+  "size": 66,
+  "sha256": "7c08c745e1fa4b25d821d0d4e8710be2d73b3a688959b05867248e0532f7df2c",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/6366b436-41c0-4c6b-8a69-71376829f25f/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.10_0.60.csv",
+  "size": 66,
+  "sha256": "6376868d6f2d7ce1be101ae9dfca1be868370afb5106d14761cd1fa0460436be",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/924bd1ad-e8a4-4dd2-aa36-9fc0bf2aad02/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.16_0.20.csv",
+  "size": 67,
+  "sha256": "a32fabf44bd9f513df83d269f4cefafeeb6063f98ca390b8b59202fc976740ff",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/c1653e41-f981-4dc6-bb36-ee51d6ca4d96/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.16_0.40.csv",
+  "size": 67,
+  "sha256": "593193e3bef0803ee0bd9bd4d9d2513a0bbd3656c775d5a12324561c2795f43f",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/f860bc84-0ca0-4f8e-8a2f-cf3d732b505d/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_0630_0.16_0.60.csv",
+  "size": 66,
+  "sha256": "3ab8afa66930d93ce2ab020f359b4b3bd7b93834429d84cde55a7344b1afaa7a",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/82314d07-d30b-404b-b019-8c22c592d52f/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.05_0.20.csv",
+  "size": 67,
+  "sha256": "9f7a7db4ffcc9987a88e6b3c9ec0502fdb94ab4460498a2dc03d88ce3b738f8e",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/403fdfc8-0cd2-48ae-b984-fd020dbb237d/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.05_0.40.csv",
+  "size": 65,
+  "sha256": "f1455613a151d88dbc7295fb1b1b4b5ee79a43897604203c3080ffccbf851111",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/9c5048e8-e077-4ce4-ad6a-ef02aee65f45/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.05_0.60.csv",
+  "size": 66,
+  "sha256": "d768b3dea5c5e21806ba929da4d765bd045fed7f7bda98193caa0918a748ea32",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/b0187644-6731-4392-8766-2f31b2e89280/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.10_0.20.csv",
+  "size": 66,
+  "sha256": "35d36b5532ac707cf719afca0f7239dab5673cb20e9216d4422e83c2bc11288a",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/4972c82f-ecd6-4baa-98fb-feea5072f0ea/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.10_0.40.csv",
+  "size": 65,
+  "sha256": "8d0cda72ff2302d8d628ff9585a2d5c62e2d4e00f7266babf702d515c042b38d",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/b3d37de1-734f-471a-bb94-fcb382156bb2/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.10_0.60.csv",
+  "size": 67,
+  "sha256": "bd46b05a0e3ed1fc744482084268d71852d91cdebb3e51324b45804f6dff283d",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/06cf464c-eabd-4232-85ab-6ddba7fdbc8a/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.16_0.20.csv",
+  "size": 66,
+  "sha256": "da4dd4b71cee761e7787df5130c123bc91845b72815d752f97038b8f82a77dc6",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/0674159b-763b-45d7-a0af-df316e1d73f2/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.16_0.40.csv",
+  "size": 67,
+  "sha256": "466810eacfece8d6c59afd1d431356adb9990349cdc075b40c427df63fc011ea",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/7581723b-7006-412c-8458-7a4a9aaace02/file_downloaded"
+ },
+ {
+  "folder": "rough",
+  "filename": "r_1000_0.16_0.60.csv",
+  "size": 67,
+  "sha256": "2f79da307bb16d9775898547e449c45ec01576fa929360e4dcb27c0f3f283a26",
+  "url": "https://data.mendeley.com/public-files/datasets/ybyhxv4czd/files/8e1787a6-cbbb-425b-8533-e37187515058/file_downloaded"
+ }
+]

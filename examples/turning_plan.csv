@@ -1,0 +1,5 @@
+process,trial_id,material,diameter_mm,speed_rpm,feed_mm_rev,depth_mm,nose_radius_mm,length_mm
+turning,T01,Inconel-625,32,400,0.05,0.2,0.8,45
+turning,T02,Inconel-625,32,630,0.10,0.4,0.8,45
+turning,T03,Inconel-625,32,1000,0.16,0.6,0.8,45
+turning,T04,Inconel-625,32,630,0.10,20,0.8,45

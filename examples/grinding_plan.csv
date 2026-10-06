@@ -1,0 +1,7 @@
+process,trial_id,material,wheel,wheel_diameter_mm,wheel_speed_m_s,work_speed_m_min,depth_mm,width_mm,coolant
+grinding,G01,IN718,cBN_B126,400,35,12,0.01,10,oil
+grinding,G02,IN718,cBN_B126,400,35,12,0.02,10,oil
+grinding,G03,IN718,cBN_B126,400,50,12,0.02,10,oil
+grinding,G04,IN718,Al2O3_80,400,30,0.6,1.0,10,emulsion
+grinding,G05,IN718,cBN_B126,400,35,300,0.02,10,oil
+grinding,G06,IN718,cBN_B126,400,35,12,-0.01,10,oil
